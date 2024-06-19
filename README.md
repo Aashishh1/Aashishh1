@@ -1,7 +1,7 @@
 Hi! My name is Ashish Mishra 😄
 ========================================================================================================================================
 
-🌍 Electronic and Computer Science Engineering Student in Mumbai, India.
+🌍 Electronics and Computer Science Engineer in Mumbai, India.
 <br/>
 
 ### Skills
