@@ -6,8 +6,7 @@ Hi! My name is Ashish Mishra 😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,bootstrap)](https://skillicons.dev)
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=light)](https://skillicons.dev)
 
 ### Socials
 
