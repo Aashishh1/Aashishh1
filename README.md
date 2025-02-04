@@ -6,8 +6,9 @@ Hi! My name is Ashish Mishra 😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=light)](https://skillicons.dev)
-
+### Skills
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,mysql,pbi,jupyter&titles=true)
+<br/>
 ### Socials
 
 <div id="badges">
