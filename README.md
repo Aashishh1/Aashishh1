@@ -4,7 +4,6 @@ Hi! My name is Ashish Mishra 😄
 🌍 Electronics and Computer Science Engineer in Mumbai, India.
 <br/>
 
-### Skills
 
 ### Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,mysql,pbi,jupyter&titles=true)
