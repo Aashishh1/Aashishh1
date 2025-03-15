@@ -3,10 +3,12 @@ Hi! My name is Ashish Mishra 😄
 
 🌍 Electronics and Computer Science Engineer in Mumbai, India.
 <br/>
+💻  Open to work!
+<br/>
 
+### Tech stack
 
-### Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,mysql,pbi,jupyter&titles=true)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws,mysql)](https://skillicons.dev)  
 <br/>
 ### Socials
 
