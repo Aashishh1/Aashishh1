@@ -8,8 +8,11 @@ Hi! My name is Ashish Mishra 😄
 
 ### Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws,mysql)](https://skillicons.dev)  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws,mysql,figma)](https://skillicons.dev)  
+
 <br/>
+
 ### Socials
 
 <div id="badges">
