@@ -1,27 +1,35 @@
-<pre align="center">
+<div align="center">
+
+```
 ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████║█████╗  ██║     ██║     ██║   ██║
 ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
 ██║  ██║███████╗███████╗███████╗╚██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
-</pre>
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+```
+</div>
 
-<h3 align="center">
-👋 I'm <b>Ashish Mishra</b>
-</h3>
+### My name is Ashish Mishra 😄
 
-<p align="center">
-Electronics & Computer Science Engineer (AI & ML Honors)<br/>
-Aspiring <b>Data Science Engineer</b>
-</p>
+🌍  AI/ML Engineer based in Mumbai, India  
+💻  Open to work!  
 
-<p align="center">
-Turning data into intelligent decisions 🚀
-</p>
+### Tech Stack
 
-<hr/>
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev) 
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev) 
+[![scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://skillicons.dev) 
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) 
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) 
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) 
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) 
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev) 
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00ADB5&center=true&vCenter=true&width=520&lines=Data+Science;Machine+Learning;Artificial+Intelligence;Learning+%7C+Building+%7C+Growing" />
-</p>
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashishh1/)  
+
+</div>
