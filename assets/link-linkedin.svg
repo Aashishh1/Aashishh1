@@ -1,0 +1,10 @@
+<svg width="280" height="76" viewBox="0 0 280 76" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">LinkedIn</title><desc id="d">Connect with Ashish Mishra on LinkedIn</desc>
+  <style>
+    .card{fill:#f6f8fa;stroke:#d0d7de}.label{font:600 10px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1.6px;fill:#656d76}.value{font:600 15px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#1f2328}.arrow{fill:#656d76}
+    @media(prefers-color-scheme:dark){.card{fill:#161b22;stroke:#30363d}.label,.arrow{fill:#8b949e}.value{fill:#f0f6fc}}
+  </style>
+  <rect class="card" x=".5" y=".5" width="279" height="75" rx="10"/>
+  <rect x="20" y="24" width="28" height="28" rx="7" fill="#0A66C2"/><text x="27" y="44" font-family="Arial" font-size="16" font-weight="700" fill="#fff">in</text>
+  <text class="label" x="60" y="29">LINKEDIN</text><text class="value" x="60" y="51">Ashish Mishra</text><text class="arrow" x="250" y="43" font-family="Arial" font-size="18">&#8599;</text>
+</svg>

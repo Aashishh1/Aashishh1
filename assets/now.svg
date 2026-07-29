@@ -1,0 +1,12 @@
+<svg width="880" height="72" viewBox="0 0 880 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Ashish Mishra's current focus</title><desc id="d">Junior AI Engineer specializing in generative AI and production machine learning, based in Mumbai, India.</desc>
+  <style>
+    .rule{stroke:#d0d7de}.label{font:600 9px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1.4px;fill:#656d76}.value{font:500 13px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#1f2328}
+    @media(prefers-color-scheme:dark){.rule{stroke:#30363d}.label{fill:#8b949e}.value{fill:#f0f6fc}}
+  </style>
+  <line class="rule" x1="0" y1=".5" x2="880" y2=".5"/><line class="rule" x1="0" y1="71.5" x2="880" y2="71.5"/>
+  <line class="rule" x1="294" y1="16" x2="294" y2="56"/><line class="rule" x1="587" y1="16" x2="587" y2="56"/>
+  <text class="label" x="12" y="28">CURRENT ROLE</text><text class="value" x="12" y="49">Junior AI Engineer</text>
+  <text class="label" x="318" y="28">SPECIALIZING</text><text class="value" x="318" y="49">GenAI + production ML</text>
+  <text class="label" x="611" y="28">BASED IN</text><text class="value" x="611" y="49">Mumbai, India</text>
+</svg>

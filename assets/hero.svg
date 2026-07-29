@@ -1,0 +1,21 @@
+<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ashish Mishra, AI and data engineer</title>
+  <desc id="desc">From data to decisions. From models to impact. AI Engineer specializing in Machine Learning, Data Engineering, Analytics, and Generative AI systems built for real-world impact.</desc>
+  <style>
+    .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
+    .headline { font: italic 600 36px Georgia, 'Times New Roman', serif; fill: #1f2328; }
+    .copy { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
+    .rule { stroke: #d0d7de; }
+    @media (prefers-color-scheme: dark) {
+      .label, .copy { fill: #8b949e; }
+      .headline { fill: #f0f6fc; }
+      .rule { stroke: #30363d; }
+    }
+  </style>
+  <text x="2" y="26" class="label">ASHISH MISHRA / AI &amp; DATA ENGINEER</text>
+  <line x1="2" y1="45" x2="878" y2="45" class="rule" />
+  <text x="6" y="109" class="headline">from data to decisions. from models to impact.</text>
+  <text x="4" y="151" class="copy">AI Engineer specializing in Machine Learning, Data Engineering, Analytics,</text>
+  <text x="4" y="174" class="copy">and Generative AI systems built for real-world impact.</text>
+  <line x1="2" y1="196" x2="878" y2="196" class="rule" />
+</svg>

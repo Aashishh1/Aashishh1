@@ -1,0 +1,10 @@
+<svg width="280" height="76" viewBox="0 0 280 76" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Portfolio</title><desc id="d">Visit Ashish Mishra's portfolio</desc>
+  <style>
+    .card{fill:#f6f8fa;stroke:#d0d7de}.label{font:600 10px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1.6px;fill:#656d76}.value{font:600 15px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#1f2328}.icon{fill:#1f883d}.arrow{fill:#656d76}
+    @media(prefers-color-scheme:dark){.card{fill:#161b22;stroke:#30363d}.label,.arrow{fill:#8b949e}.value{fill:#f0f6fc}.icon{fill:#3fb950}}
+  </style>
+  <rect class="card" x=".5" y=".5" width="279" height="75" rx="10"/>
+  <circle class="icon" cx="34" cy="38" r="14"/><path d="M28 38h12M34 32v12" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+  <text class="label" x="60" y="29">PORTFOLIO</text><text class="value" x="60" y="51" font-size="12.5">aashishh1.my.canva.site</text><text class="arrow" x="250" y="43" font-family="Arial" font-size="18">&#8599;</text>
+</svg>
