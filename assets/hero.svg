@@ -1,21 +1,105 @@
-<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Ashish Mishra, AI and data engineer</title>
-  <desc id="desc">From data to decisions. From models to impact. AI Engineer specializing in Machine Learning, Data Engineering, Analytics, and Generative AI systems built for real-world impact.</desc>
-  <style>
-    .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
-    .headline { font: italic 600 36px Georgia, 'Times New Roman', serif; fill: #1f2328; }
-    .copy { font: 400 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
-    .rule { stroke: #d0d7de; }
-    @media (prefers-color-scheme: dark) {
-      .label, .copy { fill: #8b949e; }
-      .headline { fill: #f0f6fc; }
-      .rule { stroke: #30363d; }
-    }
-  </style>
-  <text x="2" y="26" class="label">ASHISH MISHRA / AI &amp; DATA ENGINEER</text>
-  <line x1="2" y1="45" x2="878" y2="45" class="rule" />
-  <text x="6" y="109" class="headline">from data to decisions. from models to impact.</text>
-  <text x="4" y="151" class="copy">AI Engineer specializing in Machine Learning, Data Engineering, Analytics,</text>
-  <text x="4" y="174" class="copy">and Generative AI systems built for real-world impact.</text>
-  <line x1="2" y1="196" x2="878" y2="196" class="rule" />
+<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <!-- Gradient -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="30%" stop-color="#3B82F6"/>
+      <stop offset="60%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="880" height="210" rx="12" fill="url(#bg)"/>
+
+  <!-- Header -->
+  <text
+      x="28"
+      y="30"
+      fill="#94A3B8"
+      font-size="14"
+      font-family="SFMono-Regular,Consolas,monospace"
+      letter-spacing="2">
+      ASHISH MISHRA / BUILDING INTELLIGENT SYSTEMS
+  </text>
+
+  <!-- Divider -->
+  <line
+      x1="25"
+      y1="48"
+      x2="855"
+      y2="48"
+      stroke="url(#gradient)"
+      stroke-width="2"
+      filter="url(#glow)"/>
+
+  <!-- Hero -->
+  <text
+      x="28"
+      y="110"
+      font-family="Georgia,serif"
+      font-size="30"
+      font-style="italic"
+      font-weight="700">
+
+      <tspan fill="#ffffff">From </tspan>
+      <tspan fill="#06B6D4">Data</tspan>
+      <tspan fill="#ffffff"> to </tspan>
+      <tspan fill="#3B82F6">Decisions.</tspan>
+
+      <tspan fill="#ffffff"> From </tspan>
+
+      <tspan fill="#6366F1">Models</tspan>
+
+      <tspan fill="#ffffff"> to </tspan>
+
+      <tspan fill="#A855F7">Impact.</tspan>
+
+  </text>
+
+  <!-- Description -->
+  <text
+      x="28"
+      y="165"
+      fill="#CBD5E1"
+      font-size="14"
+      font-family="SFMono-Regular,Consolas,monospace">
+      Building scalable AI, Machine Learning, Data Engineering,
+  </text>
+
+  <text
+      x="28"
+      y="188"
+      fill="#CBD5E1"
+      font-size="14"
+      font-family="SFMono-Regular,Consolas,monospace">
+      Analytics, and Generative AI systems for real-world impact.
+  </text>
+
+  <!-- Bottom Line -->
+  <line
+      x1="25"
+      y1="200"
+      x2="855"
+      y2="200"
+      stroke="#283548"/>
+
 </svg>
